@@ -1,0 +1,67 @@
+/* Coleman Wiley 4/7/22 */
+.sectionheading{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 52px;
+   position: center
+}
+
+.sectioncontent{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: center
+}
+
+.footer {
+    background-color: rgba(86, 182, 187, 0.853);
+  }
+
+  #mainNav {
+    background-color:rgba(86, 182, 187, 0.853);
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+
+.indexheader{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 42px;
+        position: center;
+        color: rgb(123, 228, 237);
+        font-weight: bold;
+        padding: 10px;
+}
+
+.familyimg{
+    height: 325px;
+    width: 450px;
+    float: right;
+    position: relative;
+    z-index: 100;
+}
+
+.friendsimg{
+    height: 325px;
+    width: 450px;
+    float: left;
+    position: relative;
+    z-index: 100;
+}
+
+.linkedin{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.resumeonetop{
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.resumeonebottom{
+    margin-left: calc(25%);
+    margin-right: calc(25%);
+}
+
+.resumetwobottom{
+    margin-left: calc(10%);
+    margin-right: calc(10%);
+}
+
